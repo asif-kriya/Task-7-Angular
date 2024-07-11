@@ -1,2 +1,2 @@
-# Task-7-Angular
-task-7
+# angular-task-7
+doing task-7 project
